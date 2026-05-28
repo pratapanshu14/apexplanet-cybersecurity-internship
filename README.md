@@ -200,8 +200,8 @@ Topics: Full Penetration Test Report, Incident Response Simulation, Final Presen
 ## 📞 Contact
 
 **Anshu** | B.Tech ECE | ABVGIET Shimla
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
+- 🔗 LinkedIn: https://www.linkedin.com/in/anshu-pratap-giri/
+- 📧 Email: anshu.abvgiet@gmail.com
 
 ---
 
